@@ -5,7 +5,7 @@ export function Middle() {
     <MiddleContainer className="grid">
       <div>
         <p>Passageiro</p>
-        <strong>Rodrigo Terron</strong>
+        <strong>Erick Marques</strong>
       </div>
       <div className="seat text-right">
         <p>Assento</p>
