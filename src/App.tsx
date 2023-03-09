@@ -1,5 +1,13 @@
+import { Container } from "./Components/Conteinar/styles";
+import { Ticket } from "./Components/Ticket";
+import { GlobalStyle } from "./styles/global";
+
 export function App() {
   return (
-    <h1>olá mundo</h1>
+    <Container>
+      <GlobalStyle/>
+      <h1>Cartão de embarque</h1>
+      <Ticket/>
+    </Container>
   );
 };
