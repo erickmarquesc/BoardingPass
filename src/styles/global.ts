@@ -59,4 +59,14 @@ export const GlobalStyle = createGlobalStyle`
     box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.25);
   }
 
+  footer {
+    font-size: 1.4rem;
+    line-height: 2.4rem;
+    color: white;
+    opacity: 0.64;
+    width: 27rem;
+    text-align: center;
+    margin: 2rem auto;
+}
+
 `
