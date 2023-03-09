@@ -15,7 +15,7 @@ export function TopTicket() {
           <strong>23/05/2023</strong>
         </div>
       </InfoContainer>
-      <InfoContainer>
+      <InfoContainer className="grid">
         <DepartureArrivalContainer >
           <p>São Paulo, Brasil</p>
           <strong>GRU</strong>

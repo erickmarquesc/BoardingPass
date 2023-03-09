@@ -18,3 +18,8 @@ export const DepartureArrivalContainer = styled.div`
     line-height: 4.7rem;
   }
 `;
+
+export const AirplaneContainer = styled.div`
+
+  align-self: center;
+`;
