@@ -7,7 +7,10 @@ export function App() {
     <Container>
       <GlobalStyle/>
       <h1>Cartão de embarque</h1>
-      <Ticket/>
+      <Ticket />
+      <footer>
+        Qualquer problema procure o balcão de atendimento da sua companhia aérea
+      </footer>
     </Container>
   );
 };
