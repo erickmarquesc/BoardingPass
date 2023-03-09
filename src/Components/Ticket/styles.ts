@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const TicketContainer = styled.main`
+  margin-top: 2rem;
   .grid{
     display: grid;
   }
