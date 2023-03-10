@@ -24,7 +24,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML, CSS, TS e Styled-Components
+- HTML, CSS, TS e styled-components
+- React e Vite
 - Git e Github
 - Figma
 
